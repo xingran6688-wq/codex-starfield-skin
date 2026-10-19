@@ -1,0 +1,4 @@
+interface:
+  display_name: "星海换肤"
+  short_description: "独立的 Windows Codex 壁纸引擎，支持本地图片、诊断、预览和恢复"
+  default_prompt: "使用 $codex-starfield-skin 检查兼容性，并配置洪荒星海背景。"
